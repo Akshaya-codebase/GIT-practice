@@ -1,2 +1,2 @@
 hello git 
-my second change is nothing
+my second change 
